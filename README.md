@@ -1,2 +1,2 @@
 # python_scripts
-A collection of miscellaneous python scripts
+This repository contains a collection of miscellaneous python scripts
